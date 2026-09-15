@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Medtrack</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_add_medication">AddMedicationActivity</string>
+    <string name="title_activity_login_screen">LoginScreenActivity</string>
+    <string name="title_activity_sign_up_screen">SignUpScreenActivity</string>
+    <string name="title_activity_med_coach_tips">MedCoachTipsActivity</string>
+    <string name="title_activity_clinician">ClinicianActivity</string>
+</resources>
